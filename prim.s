@@ -15,7 +15,7 @@ main:
     mov $0, %edx
     div %ecx
     mov %eax, %ecx
-
+#lalala
 cond: 
     mov x, %eax
     add $1, %ebx
